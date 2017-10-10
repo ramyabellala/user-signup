@@ -119,4 +119,3 @@ def validate_login():
             error_pass_same=error_pass_same,
             email_error=email_error)
 app.run()
-
